@@ -56,5 +56,5 @@ MIT License
 Free for personal and commercial use. Attribution appreciated but not required. 🙌
 
 💡 Created By
-Crafted with ❤️ in Figma by Sambhav Aryal (Echoinbyte)
+Crafted with ❤️ in Figma by Sambhav Aryal (Echoinbyte).
 Feel free to star ⭐ the repo or use it in your next awesome project!
