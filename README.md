@@ -1,5 +1,11 @@
 # NepalMapSVG – Lightweight & Customizable
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Echoinbyte/map-of-nepal-svg/ae8f0de8b6065a42f257570db2a1c72ea0d46734/MapOfNepal.svg" alt="Map of Nepal" />
+</div>
+
+---
+
 A highly detailed yet lightweight SVG map of Nepal designed in Figma.  
 This map is:
 
@@ -24,7 +30,7 @@ This map is:
 You can use the raw SVG code directly in your HTML, or embed it using `img`, `object`, or `iframe`.  
 You can also import it in JavaScript frameworks as a component or inline string.
 
-### 🔧 Example
+### 📎 Copy-Paste SVG Code
 
 ```html
 <svg width="2180" height="1264" viewBox="0 0 2180 1264" fill="none" xmlns="http://www.w3.org/2000/svg">
